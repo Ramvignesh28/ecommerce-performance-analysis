@@ -58,3 +58,14 @@ To demonstrate practical data analyst skills, including data cleaning, SQL query
 
 ### Executive Overview
 ![Executive Overview](Executive_Overview.png)
+### Sales Performance
+![Sales Performance](Sales_Performance.png)
+
+### Product Analysis
+![Product Analysis](Product_Analysis.png)
+
+### Customer Insights
+![Customer Insights](Customer_Insights.png)
+
+### Orders and Payments
+![Orders and Payments](Orders_and_Payments.png)
