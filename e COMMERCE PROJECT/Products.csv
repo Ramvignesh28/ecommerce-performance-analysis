@@ -1,0 +1,19 @@
+﻿product_id,product_name,category,unit_cost,unit_price
+1,Wireless Mouse,Electronics,650,1150
+2,Bluetooth Speaker,Electronics,1200,2200
+3,USB-C Hub,Electronics,900,1600
+4,Headphones,Electronics,1500,2800
+5,Mixer Grinder,Home & Kitchen,2200,3600
+6,Water Bottle,Home & Kitchen,250,550
+7,Bedsheet Set,Home & Kitchen,800,1450
+8,Storage Rack,Home & Kitchen,1100,1950
+9,Casual T-Shirt,Fashion,250,650
+10,Running Shoes,Fashion,1400,2600
+11,Backpack,Fashion,700,1350
+12,Denim Jeans,Fashion,900,1750
+13,Data Analytics Handbook,Books,350,700
+14,Fiction Novel,Books,180,400
+15,Python Programming Guide,Books,450,900
+16,Face Wash,Beauty,120,280
+17,Skin Care Kit,Beauty,550,1100
+18,Hair Dryer,Beauty,900,1650

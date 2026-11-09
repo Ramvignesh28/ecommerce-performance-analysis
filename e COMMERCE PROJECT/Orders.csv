@@ -1,0 +1,651 @@
+﻿order_id,customer_id,order_date,order_status,sales_channel,payment_method
+1001,117,2026-03-01 22:15,Shipped,Website,Cash on Delivery
+1002,200,2026-03-12 11:15,Processing,Mobile App,Cash on Delivery
+1003,117,2025-05-17 20:45,Delivered,Marketplace,Net Banking
+1004,130,2026-03-13 21:45,Cancelled,Mobile App,Cash on Delivery
+1005,134,2026-05-12 18:15,Delivered,Website,Debit Card
+1006,21,2025-05-22 10:15,Delivered,Website,Credit Card
+1007,107,2025-03-05 11:45,Delivered,Mobile App,UPI
+1008,140,2026-09-10 22:15,Delivered,Website,Cash on Delivery
+1009,186,2025-06-19 21:45,Cancelled,Marketplace,Net Banking
+1010,165,2026-03-15 10:45,Delivered,Website,Debit Card
+1011,72,2026-03-08 12:00,Delivered,Mobile App,UPI
+1012,33,2026-04-30 18:00,Delivered,Website,Debit Card
+1013,149,2025-01-27 22:30,Delivered,Marketplace,Cash on Delivery
+1014,213,2025-09-06 09:30,Processing,Mobile App,UPI
+1015,166,2025-12-16 08:45,Processing,Website,Debit Card
+1016,70,2026-09-23 20:45,Delivered,Marketplace,Net Banking
+1017,72,2026-04-07 11:45,Delivered,Mobile App,Debit Card
+1018,91,2025-09-22 13:30,Cancelled,Mobile App,Debit Card
+1019,177,2026-05-03 18:45,Delivered,Website,Debit Card
+1020,95,2026-04-30 16:30,Delivered,Mobile App,Debit Card
+1021,60,2025-05-04 19:15,Delivered,Mobile App,Credit Card
+1022,195,2026-06-22 17:30,Returned,Marketplace,Debit Card
+1023,137,2025-05-10 12:00,Returned,Mobile App,Credit Card
+1024,113,2025-12-15 10:00,Delivered,Marketplace,UPI
+1025,22,2025-09-12 09:45,Delivered,Mobile App,Credit Card
+1026,79,2026-08-06 17:00,Delivered,Mobile App,Credit Card
+1027,1,2026-02-23 15:45,Delivered,Website,Debit Card
+1028,151,2025-07-22 14:00,Delivered,Mobile App,Debit Card
+1029,32,2026-04-25 19:30,Shipped,Marketplace,Net Banking
+1030,65,2025-01-27 09:15,Returned,Marketplace,Net Banking
+1031,114,2025-10-12 10:45,Delivered,Mobile App,UPI
+1032,27,2025-06-14 13:45,Shipped,Website,Cash on Delivery
+1033,198,2026-02-18 21:00,Delivered,Mobile App,Cash on Delivery
+1034,161,2026-03-29 20:00,Delivered,Mobile App,Debit Card
+1035,156,2025-09-03 19:15,Delivered,Website,Cash on Delivery
+1036,166,2025-06-07 15:30,Delivered,Website,Cash on Delivery
+1037,88,2026-06-04 12:00,Delivered,Website,Net Banking
+1038,196,2026-07-11 14:45,Cancelled,Marketplace,Credit Card
+1039,170,2025-06-05 15:00,Delivered,Marketplace,Debit Card
+1040,121,2025-09-29 13:45,Delivered,Marketplace,Net Banking
+1041,139,2025-02-06 17:00,Delivered,Mobile App,Debit Card
+1042,76,2026-01-03 13:45,Delivered,Mobile App,Net Banking
+1043,175,2025-09-04 15:15,Delivered,Mobile App,Cash on Delivery
+1044,74,2026-07-14 10:00,Delivered,Website,Net Banking
+1045,217,2025-11-06 11:45,Processing,Website,Cash on Delivery
+1046,145,2025-02-20 22:45,Processing,Marketplace,Credit Card
+1047,197,2025-05-21 18:00,Cancelled,Mobile App,Debit Card
+1048,45,2025-07-25 10:30,Delivered,Marketplace,Credit Card
+1049,192,2025-12-13 20:00,Delivered,Website,Credit Card
+1050,192,2025-09-26 17:45,Processing,Marketplace,UPI
+1051,57,2025-03-06 18:45,Cancelled,Website,Cash on Delivery
+1052,30,2025-04-10 11:15,Delivered,Website,Net Banking
+1053,26,2026-05-17 17:45,Cancelled,Website,Debit Card
+1054,176,2026-01-12 16:30,Delivered,Website,UPI
+1055,33,2026-08-02 11:00,Processing,Mobile App,Net Banking
+1056,202,2026-09-03 08:30,Processing,Website,Credit Card
+1057,203,2025-09-01 17:30,Delivered,Website,Credit Card
+1058,132,2026-08-31 09:45,Delivered,Marketplace,UPI
+1059,217,2026-02-16 14:00,Delivered,Marketplace,UPI
+1060,153,2026-06-28 12:45,Delivered,Mobile App,UPI
+1061,25,2025-11-17 14:30,Delivered,Website,Credit Card
+1062,191,2026-01-17 20:15,Delivered,Mobile App,Net Banking
+1063,185,2025-02-22 12:30,Delivered,Mobile App,Credit Card
+1064,90,2026-07-24 13:00,Shipped,Mobile App,Cash on Delivery
+1065,2,2025-07-05 21:15,Delivered,Website,Credit Card
+1066,88,2025-06-11 13:30,Shipped,Mobile App,Net Banking
+1067,70,2026-03-30 18:45,Delivered,Mobile App,Debit Card
+1068,29,2025-10-18 18:45,Delivered,Website,Credit Card
+1069,55,2025-05-21 20:30,Delivered,Website,Cash on Delivery
+1070,214,2025-12-29 09:45,Processing,Website,UPI
+1071,110,2026-08-11 14:45,Delivered,Website,Debit Card
+1072,23,2026-03-24 21:00,Delivered,Mobile App,Net Banking
+1073,86,2025-06-22 09:00,Delivered,Website,Debit Card
+1074,66,2025-07-22 10:15,Shipped,Mobile App,Credit Card
+1075,81,2025-06-04 15:00,Delivered,Mobile App,Debit Card
+1076,95,2025-10-21 09:00,Delivered,Mobile App,Cash on Delivery
+1077,155,2026-05-03 16:15,Returned,Mobile App,Debit Card
+1078,100,2026-02-23 20:30,Delivered,Website,Debit Card
+1079,73,2025-09-16 19:15,Delivered,Mobile App,Credit Card
+1080,209,2025-05-11 18:00,Delivered,Mobile App,Debit Card
+1081,88,2026-05-13 11:15,Returned,Website,Debit Card
+1082,213,2026-10-02 20:15,Shipped,Website,Debit Card
+1083,137,2025-09-02 12:45,Cancelled,Website,Net Banking
+1084,142,2025-04-16 19:00,Delivered,Mobile App,Debit Card
+1085,24,2025-08-16 21:45,Cancelled,Marketplace,Cash on Delivery
+1086,96,2025-08-18 08:30,Cancelled,Marketplace,Debit Card
+1087,121,2026-04-05 17:00,Cancelled,Website,Credit Card
+1088,160,2026-04-14 09:00,Processing,Mobile App,Net Banking
+1089,37,2025-10-26 14:00,Delivered,Website,Cash on Delivery
+1090,18,2026-06-23 16:00,Delivered,Mobile App,Cash on Delivery
+1091,35,2025-02-15 13:30,Processing,Website,Cash on Delivery
+1092,80,2026-06-12 14:45,Delivered,Mobile App,Credit Card
+1093,70,2025-05-08 20:30,Delivered,Website,Cash on Delivery
+1094,187,2026-03-11 09:45,Delivered,Marketplace,Net Banking
+1095,76,2025-11-10 15:45,Delivered,Mobile App,Cash on Delivery
+1096,71,2025-02-28 09:45,Delivered,Marketplace,Credit Card
+1097,9,2026-09-12 10:45,Cancelled,Website,UPI
+1098,48,2026-05-27 16:45,Cancelled,Website,Debit Card
+1099,116,2025-06-26 22:45,Returned,Marketplace,Debit Card
+1100,164,2025-06-28 20:30,Delivered,Website,Credit Card
+1101,206,2026-07-19 10:00,Delivered,Website,Cash on Delivery
+1102,120,2026-06-14 13:15,Processing,Mobile App,Net Banking
+1103,213,2025-05-08 16:15,Delivered,Website,Credit Card
+1104,65,2025-07-21 18:30,Delivered,Website,Net Banking
+1105,40,2025-06-25 18:30,Processing,Mobile App,UPI
+1106,107,2026-09-25 18:00,Delivered,Mobile App,Debit Card
+1107,19,2025-03-03 10:45,Delivered,Mobile App,Debit Card
+1108,195,2026-01-15 16:00,Delivered,Mobile App,Debit Card
+1109,99,2026-09-23 14:15,Returned,Marketplace,Debit Card
+1110,101,2026-06-02 15:15,Delivered,Website,UPI
+1111,217,2025-04-21 14:15,Cancelled,Mobile App,Cash on Delivery
+1112,142,2025-10-23 09:45,Delivered,Mobile App,Debit Card
+1113,155,2026-06-06 14:00,Delivered,Website,Debit Card
+1114,82,2025-06-16 14:30,Delivered,Mobile App,Net Banking
+1115,107,2026-08-21 12:00,Delivered,Website,Net Banking
+1116,38,2025-09-06 08:00,Delivered,Mobile App,Cash on Delivery
+1117,121,2025-03-05 19:15,Delivered,Mobile App,Cash on Delivery
+1118,174,2025-09-28 17:45,Delivered,Website,Net Banking
+1119,54,2026-05-16 13:45,Delivered,Marketplace,Debit Card
+1120,210,2025-12-20 20:15,Delivered,Website,UPI
+1121,123,2025-08-08 11:30,Cancelled,Mobile App,Credit Card
+1122,58,2025-08-27 08:00,Delivered,Mobile App,UPI
+1123,123,2025-07-24 20:30,Delivered,Mobile App,UPI
+1124,10,2026-02-11 20:45,Delivered,Mobile App,Debit Card
+1125,35,2026-06-01 15:30,Delivered,Website,Credit Card
+1126,173,2025-07-17 10:45,Processing,Mobile App,UPI
+1127,123,2025-11-28 22:15,Delivered,Website,Cash on Delivery
+1128,93,2025-08-30 08:00,Delivered,Website,Net Banking
+1129,192,2026-09-13 13:45,Shipped,Marketplace,Net Banking
+1130,135,2026-04-03 16:30,Delivered,Mobile App,UPI
+1131,126,2025-04-04 22:45,Processing,Mobile App,Net Banking
+1132,207,2025-11-12 19:00,Delivered,Marketplace,Credit Card
+1133,18,2026-04-29 08:30,Delivered,Mobile App,Cash on Delivery
+1134,97,2025-03-24 18:15,Delivered,Website,Credit Card
+1135,98,2025-08-24 11:45,Delivered,Website,UPI
+1136,62,2025-07-31 09:00,Delivered,Mobile App,UPI
+1137,139,2025-08-11 20:00,Delivered,Marketplace,Credit Card
+1138,57,2026-02-28 12:30,Delivered,Marketplace,Credit Card
+1139,98,2026-06-22 13:45,Delivered,Website,Credit Card
+1140,207,2026-04-20 22:00,Delivered,Marketplace,Net Banking
+1141,217,2026-01-15 09:15,Delivered,Website,Net Banking
+1142,56,2026-05-06 11:30,Delivered,Marketplace,Credit Card
+1143,98,2026-04-23 16:30,Delivered,Website,Cash on Delivery
+1144,53,2026-01-15 13:45,Delivered,Marketplace,Credit Card
+1145,185,2026-03-04 12:15,Delivered,Website,Net Banking
+1146,44,2025-12-27 10:15,Shipped,Mobile App,Net Banking
+1147,39,2025-01-10 11:45,Delivered,Mobile App,Net Banking
+1148,74,2025-01-18 16:45,Processing,Marketplace,UPI
+1149,21,2026-01-18 14:45,Delivered,Marketplace,Credit Card
+1150,195,2025-02-02 09:45,Delivered,Mobile App,UPI
+1151,145,2025-04-08 22:00,Delivered,Marketplace,Net Banking
+1152,72,2026-07-11 17:00,Delivered,Marketplace,UPI
+1153,36,2025-03-22 16:30,Delivered,Mobile App,UPI
+1154,8,2025-10-07 20:45,Delivered,Website,Cash on Delivery
+1155,76,2025-09-10 19:00,Delivered,Website,Credit Card
+1156,93,2025-10-04 09:15,Delivered,Mobile App,Net Banking
+1157,154,2025-11-29 21:45,Delivered,Website,UPI
+1158,36,2025-10-03 12:30,Delivered,Website,Cash on Delivery
+1159,93,2025-09-15 11:45,Delivered,Website,UPI
+1160,216,2026-09-28 14:30,Delivered,Mobile App,Net Banking
+1161,52,2026-05-06 13:15,Returned,Marketplace,Debit Card
+1162,94,2025-04-27 22:15,Delivered,Mobile App,Net Banking
+1163,113,2025-10-26 21:00,Processing,Mobile App,Cash on Delivery
+1164,203,2026-01-22 09:45,Returned,Mobile App,Cash on Delivery
+1165,153,2025-03-29 09:15,Delivered,Website,Net Banking
+1166,204,2026-03-17 09:00,Delivered,Website,Net Banking
+1167,177,2026-05-28 10:30,Returned,Mobile App,Debit Card
+1168,37,2025-12-23 12:30,Delivered,Website,Cash on Delivery
+1169,116,2025-11-23 09:30,Delivered,Mobile App,UPI
+1170,60,2026-02-19 18:15,Delivered,Mobile App,Cash on Delivery
+1171,100,2025-01-05 19:15,Delivered,Mobile App,UPI
+1172,172,2026-05-17 16:30,Delivered,Mobile App,Net Banking
+1173,45,2025-11-01 22:00,Delivered,Website,Credit Card
+1174,131,2026-02-02 14:15,Delivered,Mobile App,Cash on Delivery
+1175,159,2025-02-24 21:30,Returned,Mobile App,Credit Card
+1176,182,2026-03-31 15:15,Delivered,Website,Credit Card
+1177,44,2026-04-14 17:45,Delivered,Website,UPI
+1178,139,2025-02-12 20:45,Delivered,Marketplace,UPI
+1179,210,2025-03-31 15:00,Shipped,Website,Net Banking
+1180,146,2025-12-26 16:30,Delivered,Website,Debit Card
+1181,174,2025-04-08 10:45,Cancelled,Marketplace,Credit Card
+1182,37,2026-08-15 18:30,Delivered,Website,UPI
+1183,117,2026-05-15 13:00,Processing,Marketplace,UPI
+1184,212,2025-08-05 15:30,Delivered,Website,Net Banking
+1185,201,2026-04-16 08:00,Cancelled,Website,Cash on Delivery
+1186,167,2025-11-06 10:30,Delivered,Website,UPI
+1187,79,2025-08-28 14:00,Shipped,Website,Cash on Delivery
+1188,3,2025-01-09 19:30,Processing,Marketplace,Cash on Delivery
+1189,27,2025-11-17 13:30,Delivered,Mobile App,Credit Card
+1190,113,2025-12-26 19:15,Delivered,Website,Cash on Delivery
+1191,151,2026-01-29 13:45,Delivered,Website,Debit Card
+1192,78,2025-07-30 16:15,Shipped,Website,UPI
+1193,19,2026-06-25 22:00,Returned,Marketplace,Credit Card
+1194,45,2026-04-28 20:00,Delivered,Website,Debit Card
+1195,130,2025-10-21 18:45,Delivered,Website,Net Banking
+1196,207,2025-06-09 16:30,Delivered,Mobile App,UPI
+1197,15,2025-09-08 09:45,Delivered,Mobile App,UPI
+1198,36,2025-01-12 10:45,Returned,Mobile App,Debit Card
+1199,188,2025-05-01 20:00,Delivered,Mobile App,Net Banking
+1200,93,2025-02-26 15:15,Delivered,Website,UPI
+1201,46,2025-02-06 16:45,Delivered,Website,Debit Card
+1202,129,2025-02-23 10:15,Processing,Marketplace,Cash on Delivery
+1203,84,2025-03-30 16:45,Delivered,Website,Net Banking
+1204,188,2026-07-14 20:15,Delivered,Marketplace,UPI
+1205,3,2025-12-10 08:45,Processing,Mobile App,UPI
+1206,37,2025-10-14 09:00,Cancelled,Marketplace,Net Banking
+1207,25,2026-06-02 10:45,Delivered,Mobile App,Cash on Delivery
+1208,180,2025-12-01 13:45,Delivered,Website,Credit Card
+1209,116,2026-04-23 13:45,Delivered,Website,Credit Card
+1210,24,2025-06-11 20:30,Processing,Mobile App,UPI
+1211,64,2025-12-31 14:00,Delivered,Website,Credit Card
+1212,192,2026-07-18 11:00,Delivered,Marketplace,Credit Card
+1213,34,2025-07-22 21:45,Delivered,Mobile App,UPI
+1214,114,2025-05-12 09:30,Delivered,Marketplace,UPI
+1215,128,2025-01-31 14:45,Delivered,Website,Credit Card
+1216,158,2026-09-27 17:15,Delivered,Mobile App,Net Banking
+1217,108,2025-07-24 18:15,Delivered,Marketplace,UPI
+1218,208,2025-10-15 08:45,Delivered,Mobile App,Credit Card
+1219,46,2025-08-31 17:30,Processing,Mobile App,Net Banking
+1220,37,2026-07-31 11:45,Delivered,Website,UPI
+1221,135,2026-05-05 08:30,Cancelled,Website,Credit Card
+1222,38,2026-08-24 19:15,Shipped,Marketplace,Debit Card
+1223,82,2025-06-28 19:30,Delivered,Mobile App,Credit Card
+1224,1,2026-08-10 14:00,Delivered,Website,Net Banking
+1225,85,2025-03-21 11:30,Returned,Website,UPI
+1226,185,2025-01-02 08:45,Delivered,Website,Credit Card
+1227,58,2025-06-16 15:00,Shipped,Website,UPI
+1228,97,2025-06-14 19:00,Delivered,Marketplace,UPI
+1229,168,2025-06-18 17:45,Delivered,Website,Credit Card
+1230,110,2025-03-31 12:45,Delivered,Website,Credit Card
+1231,126,2025-09-29 09:45,Delivered,Marketplace,Debit Card
+1232,68,2025-08-20 21:30,Delivered,Website,UPI
+1233,194,2026-08-27 11:00,Processing,Marketplace,Cash on Delivery
+1234,38,2025-05-04 20:45,Delivered,Marketplace,Credit Card
+1235,38,2026-09-02 12:30,Cancelled,Marketplace,UPI
+1236,134,2026-04-15 22:00,Shipped,Mobile App,Net Banking
+1237,28,2026-07-31 20:00,Shipped,Marketplace,Debit Card
+1238,156,2026-02-16 08:45,Cancelled,Website,Credit Card
+1239,210,2025-11-07 12:30,Processing,Marketplace,UPI
+1240,211,2026-02-21 19:45,Shipped,Marketplace,UPI
+1241,130,2026-02-18 10:00,Delivered,Marketplace,Credit Card
+1242,130,2026-02-11 18:00,Shipped,Website,Cash on Delivery
+1243,192,2025-04-03 12:00,Delivered,Website,Net Banking
+1244,105,2026-06-10 08:00,Delivered,Website,Credit Card
+1245,165,2025-10-09 14:45,Processing,Mobile App,Credit Card
+1246,150,2025-04-15 08:30,Delivered,Mobile App,Debit Card
+1247,71,2025-11-29 21:30,Delivered,Mobile App,Debit Card
+1248,207,2026-09-07 14:30,Shipped,Mobile App,Cash on Delivery
+1249,176,2026-07-02 18:45,Cancelled,Mobile App,Net Banking
+1250,25,2026-04-28 10:30,Shipped,Mobile App,Credit Card
+1251,96,2025-09-24 17:30,Delivered,Website,UPI
+1252,36,2025-07-25 13:45,Returned,Marketplace,Cash on Delivery
+1253,86,2025-07-01 13:00,Delivered,Website,Credit Card
+1254,163,2026-03-16 14:45,Returned,Website,UPI
+1255,2,2025-09-12 11:30,Delivered,Website,Net Banking
+1256,187,2026-06-17 17:30,Delivered,Mobile App,Credit Card
+1257,43,2026-02-18 08:15,Delivered,Marketplace,Credit Card
+1258,97,2025-09-19 20:00,Delivered,Website,UPI
+1259,141,2025-09-16 15:15,Delivered,Mobile App,UPI
+1260,160,2026-09-13 19:15,Delivered,Marketplace,Net Banking
+1261,52,2025-09-27 21:15,Delivered,Website,Credit Card
+1262,124,2025-12-05 11:00,Delivered,Website,UPI
+1263,60,2026-04-13 12:30,Delivered,Website,Credit Card
+1264,170,2025-06-24 13:30,Cancelled,Marketplace,Debit Card
+1265,123,2026-03-08 18:15,Delivered,Mobile App,UPI
+1266,215,2025-05-14 15:45,Delivered,Website,UPI
+1267,135,2026-08-14 19:15,Returned,Mobile App,Debit Card
+1268,64,2026-05-09 13:45,Delivered,Marketplace,Net Banking
+1269,219,2026-05-23 21:15,Delivered,Mobile App,Credit Card
+1270,141,2026-01-23 14:15,Delivered,Mobile App,Net Banking
+1271,128,2025-01-19 09:45,Delivered,Mobile App,UPI
+1272,217,2026-04-11 13:45,Shipped,Website,Cash on Delivery
+1273,213,2025-10-26 16:30,Shipped,Website,Credit Card
+1274,51,2025-07-12 09:45,Delivered,Marketplace,Credit Card
+1275,32,2026-04-07 15:15,Returned,Website,UPI
+1276,188,2025-05-12 09:45,Delivered,Mobile App,Debit Card
+1277,178,2025-09-12 12:45,Returned,Marketplace,Cash on Delivery
+1278,141,2025-11-18 19:15,Delivered,Mobile App,Debit Card
+1279,30,2025-12-27 16:45,Delivered,Marketplace,Cash on Delivery
+1280,28,2025-01-26 14:15,Delivered,Website,Debit Card
+1281,201,2025-10-30 11:00,Delivered,Mobile App,Net Banking
+1282,100,2026-03-03 20:30,Returned,Website,Debit Card
+1283,181,2026-01-12 20:15,Shipped,Marketplace,Debit Card
+1284,189,2026-06-11 09:45,Delivered,Website,Debit Card
+1285,182,2025-06-08 08:15,Cancelled,Mobile App,Net Banking
+1286,130,2025-06-13 14:45,Delivered,Website,Credit Card
+1287,211,2025-01-10 09:30,Delivered,Marketplace,Net Banking
+1288,133,2026-01-19 16:45,Delivered,Website,Credit Card
+1289,198,2026-07-05 16:00,Delivered,Website,Credit Card
+1290,210,2025-03-15 19:15,Delivered,Mobile App,UPI
+1291,143,2025-03-14 17:15,Cancelled,Website,Cash on Delivery
+1292,159,2025-03-06 20:00,Shipped,Website,Net Banking
+1293,196,2026-03-25 14:45,Processing,Website,Credit Card
+1294,37,2025-11-02 18:30,Returned,Website,Net Banking
+1295,101,2026-07-05 16:00,Delivered,Mobile App,Debit Card
+1296,57,2026-09-24 21:30,Delivered,Website,Net Banking
+1297,85,2026-01-01 10:15,Delivered,Mobile App,Credit Card
+1298,79,2026-08-22 10:30,Processing,Marketplace,Credit Card
+1299,190,2026-03-23 12:30,Delivered,Mobile App,Cash on Delivery
+1300,142,2025-04-22 10:00,Processing,Marketplace,Credit Card
+1301,149,2026-02-19 20:15,Cancelled,Mobile App,Net Banking
+1302,129,2026-06-07 09:45,Delivered,Website,Credit Card
+1303,189,2026-05-11 13:00,Delivered,Mobile App,UPI
+1304,133,2026-01-05 14:45,Cancelled,Marketplace,UPI
+1305,20,2026-06-14 12:45,Returned,Website,Cash on Delivery
+1306,155,2025-01-07 16:15,Delivered,Website,Net Banking
+1307,170,2025-08-24 14:30,Shipped,Mobile App,Cash on Delivery
+1308,6,2025-09-07 08:15,Delivered,Website,Net Banking
+1309,47,2026-06-14 14:00,Processing,Mobile App,Debit Card
+1310,211,2025-07-06 17:30,Delivered,Mobile App,Cash on Delivery
+1311,134,2026-06-01 18:45,Processing,Mobile App,Credit Card
+1312,129,2025-05-01 09:45,Delivered,Marketplace,Net Banking
+1313,203,2026-01-26 13:00,Delivered,Website,Credit Card
+1314,134,2025-01-08 14:15,Shipped,Website,Debit Card
+1315,67,2026-07-03 14:30,Delivered,Marketplace,Cash on Delivery
+1316,79,2026-08-15 13:45,Shipped,Marketplace,UPI
+1317,206,2026-07-18 17:00,Delivered,Marketplace,UPI
+1318,57,2026-01-15 09:00,Shipped,Marketplace,Cash on Delivery
+1319,164,2026-05-22 15:00,Delivered,Mobile App,Net Banking
+1320,133,2025-08-26 17:15,Delivered,Website,UPI
+1321,141,2025-10-19 19:30,Delivered,Marketplace,Credit Card
+1322,105,2026-06-03 09:00,Delivered,Website,UPI
+1323,194,2025-12-14 20:45,Shipped,Marketplace,UPI
+1324,202,2025-08-14 18:15,Processing,Website,Debit Card
+1325,64,2025-10-22 09:45,Delivered,Marketplace,UPI
+1326,47,2025-07-14 15:15,Delivered,Website,Debit Card
+1327,92,2025-06-09 20:00,Delivered,Website,Cash on Delivery
+1328,148,2025-10-09 15:15,Returned,Marketplace,Debit Card
+1329,123,2026-07-08 08:30,Delivered,Mobile App,Credit Card
+1330,81,2025-01-09 08:15,Delivered,Website,Debit Card
+1331,88,2026-01-10 10:45,Delivered,Website,Debit Card
+1332,147,2025-05-15 17:15,Processing,Mobile App,Credit Card
+1333,46,2026-03-08 15:15,Returned,Marketplace,Net Banking
+1334,102,2025-04-12 19:15,Delivered,Marketplace,Cash on Delivery
+1335,32,2025-12-26 21:15,Delivered,Mobile App,Net Banking
+1336,131,2026-05-15 20:45,Cancelled,Website,Debit Card
+1337,87,2026-03-08 18:45,Processing,Website,Credit Card
+1338,182,2025-10-01 17:45,Delivered,Mobile App,Debit Card
+1339,187,2025-08-29 18:30,Cancelled,Mobile App,UPI
+1340,122,2026-07-16 08:00,Shipped,Mobile App,UPI
+1341,80,2025-08-23 11:30,Delivered,Website,Net Banking
+1342,70,2026-07-16 15:15,Returned,Mobile App,Credit Card
+1343,124,2026-07-07 11:00,Delivered,Website,Debit Card
+1344,89,2025-10-21 15:00,Shipped,Mobile App,Cash on Delivery
+1345,60,2025-01-08 16:30,Delivered,Marketplace,Cash on Delivery
+1346,100,2026-01-23 11:30,Delivered,Mobile App,Net Banking
+1347,49,2025-03-12 10:15,Delivered,Mobile App,Net Banking
+1348,39,2025-02-20 16:00,Delivered,Website,Debit Card
+1349,24,2025-06-04 08:45,Delivered,Mobile App,Cash on Delivery
+1350,210,2026-01-26 21:00,Delivered,Mobile App,Credit Card
+1351,51,2026-04-17 19:00,Delivered,Marketplace,Cash on Delivery
+1352,162,2025-02-13 19:00,Delivered,Mobile App,Credit Card
+1353,29,2025-08-30 18:45,Delivered,Website,Debit Card
+1354,122,2026-09-03 10:30,Shipped,Website,Cash on Delivery
+1355,16,2025-03-03 13:15,Shipped,Mobile App,Credit Card
+1356,194,2025-12-22 20:45,Shipped,Website,Cash on Delivery
+1357,125,2026-03-25 16:30,Delivered,Mobile App,Net Banking
+1358,71,2026-09-06 22:15,Delivered,Website,Debit Card
+1359,48,2025-01-20 17:30,Shipped,Website,UPI
+1360,40,2026-09-20 12:30,Delivered,Website,UPI
+1361,52,2025-04-20 15:15,Delivered,Mobile App,Cash on Delivery
+1362,4,2025-08-02 18:45,Cancelled,Marketplace,Cash on Delivery
+1363,158,2025-09-30 16:00,Shipped,Marketplace,UPI
+1364,146,2025-07-03 16:45,Shipped,Mobile App,Net Banking
+1365,27,2025-06-20 20:15,Delivered,Mobile App,Credit Card
+1366,217,2026-01-16 14:45,Processing,Website,Credit Card
+1367,115,2026-02-11 08:00,Returned,Mobile App,Net Banking
+1368,55,2025-11-19 08:30,Cancelled,Mobile App,Net Banking
+1369,208,2025-11-04 09:45,Delivered,Website,UPI
+1370,153,2025-11-04 08:45,Delivered,Website,Debit Card
+1371,198,2025-08-21 19:00,Delivered,Mobile App,UPI
+1372,39,2025-12-01 16:15,Delivered,Mobile App,Cash on Delivery
+1373,103,2025-09-26 09:45,Delivered,Mobile App,Credit Card
+1374,158,2026-06-21 11:15,Delivered,Mobile App,Debit Card
+1375,83,2025-12-19 17:00,Shipped,Website,Debit Card
+1376,40,2025-03-29 09:00,Delivered,Mobile App,Credit Card
+1377,190,2026-07-05 11:15,Delivered,Mobile App,Net Banking
+1378,5,2026-01-21 17:00,Delivered,Website,Credit Card
+1379,70,2026-01-04 21:00,Delivered,Marketplace,Cash on Delivery
+1380,26,2025-11-20 15:00,Delivered,Mobile App,Cash on Delivery
+1381,101,2025-06-10 08:30,Shipped,Website,Debit Card
+1382,161,2025-09-21 22:45,Cancelled,Marketplace,UPI
+1383,157,2025-08-21 14:15,Delivered,Mobile App,Debit Card
+1384,80,2026-06-21 22:15,Delivered,Marketplace,Credit Card
+1385,48,2025-11-22 21:15,Shipped,Mobile App,Cash on Delivery
+1386,146,2026-09-20 11:15,Delivered,Website,UPI
+1387,96,2025-07-08 21:45,Delivered,Website,Credit Card
+1388,70,2026-02-27 11:15,Shipped,Website,Cash on Delivery
+1389,185,2025-11-17 14:00,Delivered,Mobile App,UPI
+1390,49,2025-10-26 15:45,Cancelled,Mobile App,Debit Card
+1391,37,2026-04-20 21:45,Delivered,Mobile App,Credit Card
+1392,117,2026-08-28 22:15,Cancelled,Website,Debit Card
+1393,182,2026-01-29 19:15,Delivered,Website,Credit Card
+1394,74,2025-07-05 09:15,Returned,Website,Debit Card
+1395,207,2025-01-06 17:45,Delivered,Mobile App,Cash on Delivery
+1396,2,2025-09-08 22:30,Delivered,Mobile App,Credit Card
+1397,10,2025-05-29 21:00,Delivered,Marketplace,Debit Card
+1398,46,2025-06-15 18:30,Delivered,Mobile App,Net Banking
+1399,24,2025-11-03 13:30,Cancelled,Marketplace,Cash on Delivery
+1400,54,2026-09-19 08:00,Delivered,Marketplace,Net Banking
+1401,134,2026-05-25 15:15,Cancelled,Website,Debit Card
+1402,207,2025-08-06 08:15,Shipped,Website,UPI
+1403,30,2025-12-08 13:45,Shipped,Mobile App,UPI
+1404,40,2026-04-17 22:30,Delivered,Marketplace,UPI
+1405,72,2025-02-01 13:45,Delivered,Marketplace,Net Banking
+1406,182,2025-02-02 12:45,Delivered,Marketplace,Debit Card
+1407,45,2025-04-25 13:00,Shipped,Marketplace,Cash on Delivery
+1408,49,2025-12-15 22:45,Shipped,Mobile App,Debit Card
+1409,174,2025-05-16 11:00,Delivered,Mobile App,Net Banking
+1410,218,2026-09-01 21:00,Delivered,Marketplace,UPI
+1411,83,2025-07-25 11:30,Delivered,Website,Cash on Delivery
+1412,144,2026-06-11 09:15,Delivered,Mobile App,Debit Card
+1413,19,2025-11-15 17:30,Delivered,Website,UPI
+1414,23,2026-03-13 14:15,Shipped,Marketplace,Cash on Delivery
+1415,21,2026-04-22 17:15,Delivered,Marketplace,Cash on Delivery
+1416,197,2026-04-22 15:15,Cancelled,Website,Net Banking
+1417,85,2025-11-29 15:45,Delivered,Mobile App,Debit Card
+1418,155,2026-08-12 10:00,Delivered,Mobile App,UPI
+1419,119,2026-02-15 17:45,Delivered,Website,Credit Card
+1420,45,2025-03-21 19:45,Delivered,Mobile App,Debit Card
+1421,176,2026-09-03 20:45,Delivered,Mobile App,UPI
+1422,208,2025-01-01 20:15,Delivered,Mobile App,Debit Card
+1423,82,2025-11-03 17:30,Cancelled,Marketplace,Debit Card
+1424,73,2025-02-01 11:45,Shipped,Website,Debit Card
+1425,36,2025-07-12 16:45,Processing,Website,Cash on Delivery
+1426,166,2025-01-17 10:45,Delivered,Marketplace,Credit Card
+1427,155,2026-03-12 17:15,Delivered,Mobile App,Cash on Delivery
+1428,2,2026-08-15 15:15,Shipped,Website,Net Banking
+1429,124,2025-03-23 10:30,Delivered,Website,Net Banking
+1430,172,2025-03-21 18:30,Delivered,Marketplace,Net Banking
+1431,108,2025-12-28 20:30,Delivered,Website,Net Banking
+1432,169,2025-10-26 20:00,Delivered,Website,Net Banking
+1433,72,2025-10-09 21:30,Delivered,Website,Credit Card
+1434,9,2025-12-18 09:15,Delivered,Marketplace,Cash on Delivery
+1435,54,2026-08-15 19:30,Delivered,Website,UPI
+1436,122,2026-06-30 11:45,Shipped,Website,Debit Card
+1437,98,2025-11-20 16:00,Delivered,Mobile App,Debit Card
+1438,192,2025-09-05 19:15,Delivered,Mobile App,Credit Card
+1439,4,2026-02-26 09:00,Shipped,Website,Debit Card
+1440,15,2026-09-01 18:15,Returned,Mobile App,UPI
+1441,145,2025-07-09 22:00,Shipped,Website,Cash on Delivery
+1442,171,2025-11-28 12:15,Shipped,Website,UPI
+1443,209,2025-09-29 10:45,Delivered,Marketplace,Credit Card
+1444,158,2025-04-19 22:45,Shipped,Website,UPI
+1445,128,2025-06-02 18:00,Cancelled,Mobile App,Debit Card
+1446,182,2026-05-18 15:45,Delivered,Mobile App,UPI
+1447,92,2025-12-08 18:30,Delivered,Mobile App,UPI
+1448,195,2025-10-24 18:15,Delivered,Website,Cash on Delivery
+1449,22,2026-03-25 19:15,Delivered,Website,Net Banking
+1450,165,2025-11-12 15:45,Returned,Website,Debit Card
+1451,207,2026-06-20 15:15,Shipped,Website,UPI
+1452,121,2026-09-26 08:15,Shipped,Website,Credit Card
+1453,210,2025-04-19 09:45,Delivered,Mobile App,UPI
+1454,31,2026-08-13 16:15,Delivered,Marketplace,Credit Card
+1455,44,2026-01-14 16:15,Delivered,Marketplace,UPI
+1456,125,2025-03-24 08:00,Delivered,Website,Net Banking
+1457,157,2025-02-08 17:15,Shipped,Mobile App,UPI
+1458,136,2025-04-08 17:30,Processing,Marketplace,Net Banking
+1459,29,2025-06-02 18:45,Delivered,Website,UPI
+1460,65,2025-12-09 17:45,Delivered,Mobile App,Net Banking
+1461,19,2025-08-29 19:45,Delivered,Website,Credit Card
+1462,189,2026-02-27 21:15,Delivered,Website,Cash on Delivery
+1463,96,2025-05-20 15:15,Delivered,Marketplace,Credit Card
+1464,72,2025-05-20 09:45,Delivered,Website,Debit Card
+1465,157,2025-06-24 17:15,Delivered,Marketplace,Cash on Delivery
+1466,149,2025-08-16 22:15,Cancelled,Marketplace,Cash on Delivery
+1467,4,2026-02-21 11:15,Delivered,Website,UPI
+1468,220,2026-08-08 19:00,Returned,Mobile App,Credit Card
+1469,86,2026-06-28 08:30,Delivered,Website,Net Banking
+1470,132,2026-01-08 22:00,Delivered,Website,Net Banking
+1471,181,2025-03-10 16:15,Delivered,Website,Net Banking
+1472,180,2025-08-03 20:15,Delivered,Marketplace,Net Banking
+1473,135,2025-05-06 15:30,Delivered,Website,UPI
+1474,46,2025-10-23 09:00,Delivered,Website,Credit Card
+1475,6,2025-10-28 14:15,Delivered,Mobile App,UPI
+1476,214,2026-06-17 18:30,Delivered,Website,Debit Card
+1477,118,2025-11-08 17:15,Cancelled,Website,Debit Card
+1478,73,2026-04-12 10:15,Shipped,Website,Credit Card
+1479,53,2026-07-30 19:00,Delivered,Marketplace,Credit Card
+1480,78,2025-05-05 22:00,Delivered,Mobile App,Credit Card
+1481,122,2025-10-24 20:15,Shipped,Mobile App,Cash on Delivery
+1482,36,2026-07-19 09:30,Delivered,Mobile App,Credit Card
+1483,165,2025-07-19 17:15,Shipped,Mobile App,Credit Card
+1484,172,2025-03-31 16:45,Delivered,Website,Net Banking
+1485,102,2025-06-01 19:45,Delivered,Website,Debit Card
+1486,23,2025-08-09 19:45,Shipped,Website,Cash on Delivery
+1487,36,2026-08-25 17:00,Delivered,Website,Net Banking
+1488,52,2025-07-10 21:45,Delivered,Mobile App,Debit Card
+1489,121,2025-05-08 18:30,Delivered,Mobile App,Credit Card
+1490,154,2026-01-06 17:45,Delivered,Marketplace,Cash on Delivery
+1491,14,2025-10-07 13:45,Delivered,Marketplace,UPI
+1492,132,2025-07-18 20:15,Shipped,Mobile App,Credit Card
+1493,137,2026-08-17 13:15,Delivered,Mobile App,Debit Card
+1494,129,2025-08-15 21:15,Shipped,Mobile App,Net Banking
+1495,90,2025-11-16 19:30,Delivered,Mobile App,Net Banking
+1496,57,2025-05-12 21:15,Shipped,Website,Credit Card
+1497,20,2025-01-20 20:45,Shipped,Website,UPI
+1498,31,2025-09-17 08:00,Delivered,Website,UPI
+1499,217,2025-10-12 17:30,Delivered,Marketplace,Net Banking
+1500,196,2025-01-15 16:15,Shipped,Marketplace,Credit Card
+1501,48,2026-03-27 18:00,Delivered,Website,Cash on Delivery
+1502,195,2025-11-18 09:45,Delivered,Website,Debit Card
+1503,117,2026-09-07 19:30,Shipped,Marketplace,Credit Card
+1504,174,2026-01-12 10:00,Returned,Mobile App,UPI
+1505,31,2025-05-27 14:45,Shipped,Marketplace,Credit Card
+1506,217,2026-02-18 09:15,Processing,Mobile App,Debit Card
+1507,125,2026-06-08 12:15,Shipped,Website,Debit Card
+1508,8,2025-04-12 19:00,Processing,Mobile App,UPI
+1509,76,2026-05-25 15:30,Delivered,Marketplace,Net Banking
+1510,219,2026-01-21 15:45,Delivered,Website,Debit Card
+1511,169,2026-07-22 18:45,Delivered,Marketplace,Net Banking
+1512,158,2025-12-28 20:30,Delivered,Website,UPI
+1513,150,2025-01-28 20:30,Delivered,Mobile App,Debit Card
+1514,61,2025-11-16 17:00,Cancelled,Website,Debit Card
+1515,169,2026-03-09 17:45,Delivered,Mobile App,Net Banking
+1516,83,2026-08-10 09:45,Delivered,Mobile App,Debit Card
+1517,94,2026-03-23 11:45,Delivered,Marketplace,UPI
+1518,191,2025-04-05 19:00,Delivered,Website,Net Banking
+1519,130,2025-11-04 14:30,Delivered,Website,Net Banking
+1520,161,2026-06-13 21:15,Delivered,Website,Cash on Delivery
+1521,145,2025-03-03 16:15,Delivered,Website,Credit Card
+1522,69,2025-10-21 18:15,Delivered,Mobile App,Cash on Delivery
+1523,205,2025-11-14 15:45,Delivered,Mobile App,UPI
+1524,203,2025-10-12 18:15,Delivered,Website,Cash on Delivery
+1525,94,2025-04-03 14:15,Delivered,Mobile App,Net Banking
+1526,85,2026-08-22 19:45,Processing,Mobile App,Cash on Delivery
+1527,113,2026-02-23 12:00,Delivered,Website,UPI
+1528,72,2025-05-29 13:45,Shipped,Marketplace,UPI
+1529,99,2025-11-13 18:30,Cancelled,Mobile App,Net Banking
+1530,42,2026-03-26 18:30,Processing,Mobile App,Cash on Delivery
+1531,216,2025-12-07 19:45,Processing,Marketplace,Credit Card
+1532,189,2025-12-01 15:00,Shipped,Mobile App,Credit Card
+1533,22,2025-04-24 10:15,Delivered,Marketplace,Credit Card
+1534,205,2025-10-16 11:00,Delivered,Website,Cash on Delivery
+1535,51,2025-09-26 19:15,Delivered,Mobile App,Net Banking
+1536,146,2025-05-01 08:45,Shipped,Marketplace,Cash on Delivery
+1537,74,2026-05-22 14:15,Delivered,Website,Credit Card
+1538,150,2026-04-15 09:00,Delivered,Marketplace,Cash on Delivery
+1539,16,2025-02-23 13:15,Delivered,Website,Net Banking
+1540,144,2025-02-12 17:15,Delivered,Mobile App,Debit Card
+1541,128,2025-10-15 19:30,Cancelled,Website,Debit Card
+1542,39,2026-07-24 21:45,Delivered,Website,Credit Card
+1543,120,2026-03-23 09:45,Delivered,Website,Net Banking
+1544,38,2025-05-07 13:00,Delivered,Website,Credit Card
+1545,47,2026-03-03 22:00,Delivered,Mobile App,UPI
+1546,8,2025-03-25 15:45,Delivered,Marketplace,Net Banking
+1547,188,2026-08-06 10:15,Processing,Marketplace,Debit Card
+1548,155,2026-01-26 09:45,Delivered,Website,Cash on Delivery
+1549,73,2025-06-07 09:30,Delivered,Mobile App,Debit Card
+1550,69,2026-07-31 17:45,Delivered,Mobile App,Debit Card
+1551,174,2025-08-18 18:15,Cancelled,Mobile App,Net Banking
+1552,33,2025-11-04 21:15,Delivered,Website,UPI
+1553,170,2026-08-06 21:30,Delivered,Mobile App,Net Banking
+1554,216,2026-02-07 08:00,Delivered,Mobile App,Debit Card
+1555,55,2025-07-09 09:30,Processing,Website,Net Banking
+1556,168,2026-05-04 15:45,Processing,Marketplace,Net Banking
+1557,23,2025-05-09 10:00,Delivered,Marketplace,Credit Card
+1558,198,2026-04-20 10:45,Delivered,Website,Credit Card
+1559,76,2026-08-07 21:45,Delivered,Website,Cash on Delivery
+1560,136,2025-01-20 14:30,Delivered,Website,Cash on Delivery
+1561,89,2026-03-25 11:15,Delivered,Mobile App,Net Banking
+1562,204,2026-04-29 20:15,Delivered,Website,UPI
+1563,127,2025-11-07 11:15,Delivered,Marketplace,Debit Card
+1564,159,2025-08-21 09:15,Delivered,Marketplace,Debit Card
+1565,172,2025-04-17 19:00,Cancelled,Mobile App,Cash on Delivery
+1566,182,2026-03-29 20:45,Shipped,Website,Debit Card
+1567,113,2026-03-02 20:00,Delivered,Marketplace,Debit Card
+1568,184,2026-03-01 13:15,Delivered,Mobile App,Cash on Delivery
+1569,204,2026-01-06 08:45,Delivered,Website,Net Banking
+1570,165,2025-06-04 22:00,Returned,Marketplace,Net Banking
+1571,104,2026-04-02 18:15,Cancelled,Mobile App,Net Banking
+1572,186,2025-05-10 16:30,Delivered,Mobile App,Debit Card
+1573,214,2025-11-08 19:45,Returned,Website,UPI
+1574,2,2026-04-10 13:15,Processing,Marketplace,Net Banking
+1575,147,2025-05-24 19:45,Delivered,Website,Debit Card
+1576,117,2025-04-11 10:45,Processing,Website,UPI
+1577,20,2026-01-14 18:45,Delivered,Mobile App,Cash on Delivery
+1578,130,2025-05-11 15:45,Delivered,Mobile App,Net Banking
+1579,192,2025-06-10 16:30,Cancelled,Website,Cash on Delivery
+1580,31,2026-01-16 12:30,Delivered,Mobile App,Credit Card
+1581,73,2025-08-09 10:45,Delivered,Mobile App,UPI
+1582,34,2025-05-22 16:45,Shipped,Mobile App,Credit Card
+1583,189,2025-10-12 18:00,Processing,Mobile App,Net Banking
+1584,139,2026-08-14 20:00,Returned,Mobile App,Cash on Delivery
+1585,47,2025-01-20 12:15,Delivered,Mobile App,Net Banking
+1586,151,2025-02-16 15:00,Delivered,Website,UPI
+1587,197,2025-04-02 10:30,Returned,Mobile App,UPI
+1588,82,2025-05-26 14:30,Delivered,Marketplace,UPI
+1589,61,2026-05-20 16:45,Cancelled,Website,Debit Card
+1590,60,2025-01-20 12:00,Delivered,Mobile App,Credit Card
+1591,129,2025-07-28 20:15,Delivered,Marketplace,Credit Card
+1592,75,2025-06-21 08:00,Cancelled,Mobile App,Net Banking
+1593,216,2026-06-07 12:00,Delivered,Mobile App,UPI
+1594,186,2026-07-24 12:45,Delivered,Mobile App,Debit Card
+1595,85,2025-01-17 22:15,Delivered,Website,Cash on Delivery
+1596,143,2026-05-16 20:45,Delivered,Mobile App,UPI
+1597,100,2025-07-01 21:00,Delivered,Website,Credit Card
+1598,175,2026-01-02 11:00,Processing,Mobile App,Credit Card
+1599,72,2026-05-20 22:15,Delivered,Marketplace,Cash on Delivery
+1600,44,2026-07-20 11:15,Delivered,Website,UPI
+1601,201,2025-10-08 11:00,Returned,Mobile App,Net Banking
+1602,14,2025-11-27 14:45,Delivered,Mobile App,Cash on Delivery
+1603,58,2025-02-18 12:45,Delivered,Website,Cash on Delivery
+1604,189,2025-08-20 19:45,Returned,Marketplace,Credit Card
+1605,25,2025-01-29 15:45,Processing,Mobile App,Debit Card
+1606,19,2026-09-07 17:45,Shipped,Mobile App,Net Banking
+1607,81,2025-03-08 20:15,Delivered,Marketplace,UPI
+1608,15,2026-07-27 08:30,Processing,Website,Net Banking
+1609,159,2025-04-14 13:00,Delivered,Website,Credit Card
+1610,152,2025-07-18 22:15,Delivered,Website,Cash on Delivery
+1611,205,2025-02-15 08:15,Delivered,Mobile App,Debit Card
+1612,121,2025-11-13 17:30,Delivered,Marketplace,Net Banking
+1613,89,2025-07-20 11:15,Shipped,Website,Cash on Delivery
+1614,77,2026-03-05 13:15,Delivered,Marketplace,UPI
+1615,59,2026-04-23 17:15,Delivered,Mobile App,Debit Card
+1616,92,2025-01-31 16:00,Delivered,Mobile App,Net Banking
+1617,217,2026-07-22 11:15,Delivered,Website,Debit Card
+1618,95,2026-01-17 18:15,Cancelled,Marketplace,Net Banking
+1619,154,2026-03-16 18:15,Cancelled,Mobile App,Net Banking
+1620,14,2025-10-14 21:15,Processing,Marketplace,Cash on Delivery
+1621,158,2025-03-08 10:45,Shipped,Mobile App,Net Banking
+1622,183,2026-01-18 16:45,Shipped,Mobile App,Debit Card
+1623,102,2025-08-12 12:45,Cancelled,Mobile App,Debit Card
+1624,133,2025-12-27 11:00,Delivered,Mobile App,Cash on Delivery
+1625,82,2025-10-07 14:00,Delivered,Website,UPI
+1626,132,2026-07-14 18:00,Shipped,Marketplace,UPI
+1627,86,2025-07-21 18:30,Delivered,Mobile App,Debit Card
+1628,190,2026-07-11 22:30,Delivered,Website,Debit Card
+1629,132,2025-06-02 21:45,Delivered,Mobile App,Credit Card
+1630,194,2026-04-25 19:45,Delivered,Website,Credit Card
+1631,219,2026-07-26 08:30,Delivered,Marketplace,Debit Card
+1632,138,2025-11-03 13:00,Delivered,Website,Credit Card
+1633,156,2026-08-11 21:45,Returned,Website,Cash on Delivery
+1634,85,2026-08-07 15:30,Delivered,Website,Net Banking
+1635,18,2026-01-31 12:15,Delivered,Mobile App,UPI
+1636,84,2026-02-25 14:15,Returned,Website,Cash on Delivery
+1637,34,2025-07-30 12:45,Processing,Mobile App,Credit Card
+1638,2,2025-05-27 15:00,Processing,Mobile App,Credit Card
+1639,166,2026-04-13 13:30,Delivered,Marketplace,Credit Card
+1640,111,2026-04-14 14:15,Shipped,Website,UPI
+1641,138,2025-10-26 18:00,Shipped,Mobile App,Credit Card
+1642,65,2025-08-01 16:00,Delivered,Website,Cash on Delivery
+1643,10,2025-01-11 12:00,Shipped,Website,Cash on Delivery
+1644,63,2026-03-25 10:45,Processing,Marketplace,Credit Card
+1645,174,2025-10-07 10:45,Delivered,Website,UPI
+1646,27,2026-02-04 19:30,Delivered,Mobile App,UPI
+1647,108,2025-01-29 08:30,Processing,Mobile App,UPI
+1648,43,2025-06-21 08:45,Delivered,Marketplace,Debit Card
+1649,60,2025-08-07 09:30,Delivered,Website,Debit Card
+1650,169,2025-10-13 18:30,Delivered,Marketplace,Cash on Delivery
