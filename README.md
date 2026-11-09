@@ -54,3 +54,7 @@ To demonstrate practical data analyst skills, including data cleaning, SQL query
 ---
 
 **Note:** This project uses synthetic data for learning and portfolio demonstration.
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](Executive_Overview.png)
